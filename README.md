@@ -1,6 +1,6 @@
 
-## Get The Best Android Botnet On The Market, Octo Android Botnet
-This private version of android rat We Start Work on Octo Android Botnet as private project we promise to give private functions and work hard to give best service for our customers
+## Get The Best Android Rat On The Market, Octo Android Rat
+This private version of android rat We Start Work on Octo Android Rat as private project we promise to give private functions and work hard to give best service for our customers
 ## Buy now
 <div align="center">
   <a href="https://telegram.me/caseofficer">
