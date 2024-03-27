@@ -10,7 +10,7 @@ This private version of android rat We Start Work on Octo Android Botnet as priv
 
 # Video
 
-[![Octo Android Rat]](https://www.youtube.com/watch?v=T2VRndSrKWs)
+[![Octo Android Rat](https://img.youtube.com/vi/T2VRndSrKWs/0.jpg)](https://www.youtube.com/watch?v=T2VRndSrKWs)
 
 
 # Features
